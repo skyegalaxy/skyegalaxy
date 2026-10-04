@@ -1,5 +1,7 @@
 ## 🌠 Hi hello it's me [Skye](https://github.com/skyegalaxy) ! 🌠
-I'm a robotics software engineer, open source contributor, and [ROS PMC member](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#current-ros-pmc-constituents). I have a background in robot system software, I am one of the maintainers of the ROS client libraries, and am excited about making robotics more accessible and performant for all!
+🏳️‍⚧️ she / they  🏳️‍⚧️
+🏙️ SF Bay Area 🏙️
+I'm a robotics software engineer, open source contributor, and [ROS PMC member](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#current-ros-pmc-constituents). I have a background in AMRs, autonomous research vehicles, and robot system software. I am one of the ROS maintainers, and am excited about making robotics more accessible and performant for all!
 <!--
 **skyegalaxy/skyegalaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
