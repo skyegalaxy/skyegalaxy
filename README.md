@@ -3,7 +3,13 @@
 
 🏙️ SF Bay Area 🏙️
 
-I'm a robotics software engineer, open source contributor, and [ROS PMC member](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#current-ros-pmc-constituents). I have a background in AMRs, autonomous research vehicles, and robot system software. I am one of the ROS maintainers, and am excited about making robotics more accessible and performant for all!
+I'm a robotics engineer at [Polymath Robotics](https://www.polymathrobotics.com/) where we're working to automate large off-highway industrial vehicles and equipment. I'm also on the [ROS Project Management Committee](https://docs.ros.org/en/rolling/The-ROS2-Project/Governance.html#current-ros-pmc-constituents) contributing to and maintaining ROS 2. I have a background in AMRs, autonomous vehicles research, and robot system software, and am excited about making robotics more accessible and performant for all!
+
+Talks I've given:
+
+- ROSCon 2026 - [The new executor on the block - is it any good?](https://vimeo.com/showcase/12459077?video=1233910757) (co-presented with [Janosch Machowinski](https://github.com/jmachowinski))
+
+
 <!--
 **skyegalaxy/skyegalaxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
